@@ -1,0 +1,11 @@
+{
+  "name": "music-api-js",
+  "pages_build_output_dir": "static",
+  "compatibility_date": "2026-06-25",
+  "kv_namespaces": [
+    {
+      "binding": "MUSIC_CACHE",
+      "id": "music_cache_namespace"
+    }
+  ]
+}
